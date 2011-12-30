@@ -2,10 +2,10 @@
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/"
-http_images_path = "/images"
-http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+http_path = "/cloudkickr/"
+http_images_path = "/cloudkickr/images"
+http_fonts_path = "/cloudkickr/fonts"
+css_dir = "public/cloudkickr/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
